@@ -19,10 +19,11 @@
 
     <ImageView
         android:id="@+id/imageView3"
-        android:layout_width="416dp"
-        android:layout_height="231dp"
+        android:layout_width="410dp"
+        android:layout_height="164dp"
         android:layout_marginBottom="8dp"
         android:contentDescription="@string/sportimg"
+        android:scaleType="centerCrop"
         app:layout_constraintBottom_toTopOf="@+id/recyclerView"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
