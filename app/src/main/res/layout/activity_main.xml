@@ -19,8 +19,8 @@
 
     <ImageView
         android:id="@+id/imageView3"
-        android:layout_width="408dp"
-        android:layout_height="164dp"
+        android:layout_width="416dp"
+        android:layout_height="231dp"
         android:layout_marginBottom="8dp"
         android:contentDescription="@string/sportimg"
         app:layout_constraintBottom_toTopOf="@+id/recyclerView"
